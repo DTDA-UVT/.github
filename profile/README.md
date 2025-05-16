@@ -1,14 +1,3 @@
----
-layout: post
-title: "About DTDA – Digital Transformation and Data Analysis at UVT"
-subtitle: "Empowering UVT's Digital Future"
-gh-repo: DTDA-UVT/DTDA-UVT.github.io
-gh-badge: [star, fork, follow]
-tags: [digital-transformation, UVT, DTDA]
-comments: true
-mathjax: false
-author: Andrada Paraczki
----
 
 {: .box-success}
 Welcome to the Digital Transformation and Data Analysis Directorate (DTDA) at the West University of Timișoara (UVT). Our mission is to ensure efficient digital transformation processes within the academic community, aligning with UVT's digitalization policies and current legal regulations.
