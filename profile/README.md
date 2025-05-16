@@ -1,4 +1,4 @@
-About Digital Transformation and Data Analysis Department
+## About Digital Transformation and Data Analysis Department
 
 Welcome to the **Digital Transformation and Data Analysis (DTDA)** at the **West University of Timișoara (UVT)**. Our mission is to lead and implement efficient digital transformation processes within the academic community, in alignment with UVT’s digitalization strategy and applicable legal frameworks.
 
