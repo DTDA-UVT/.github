@@ -1,9 +1,9 @@
 <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 2rem; line-height: 1.6; max-width: 900px; margin-left: auto; margin-right: auto; background-color: #f9f9f9; color: #333;">
+  <h1 style="text-align: center; color: #2b2b2b;">Digital Transformation and Data Analysis Department</h1>
 
   <img src="logo.png" alt="DTDA UVT Logo" style="display: block; margin: 0 auto 1rem auto; width: 200px;"/>
 
-  <h1 style="text-align: center; color: #2b2b2b;">Digital Transformation and Data Analysis Department</h1>
-
+  
   <p>The Digital Transformation and Data Analysis Department (DTDA) is tasked with ensuring the most efficient digital transformation processes within the UVT academic community, in alignment with the institution’s digitalization policy and current legal regulations.</p>
 
   <hr style="margin: 2rem 0; border: none; border-top: 1px solid #ddd;" />
